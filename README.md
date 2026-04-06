@@ -38,6 +38,7 @@ classDiagram
     Game <|-- GameOnline : Inheritance
     Main ..> GameOnline : Instantiates based on Input
     Main ..> Scanner : Uses for User Input
+```
 
     ![alt text](image.png)
 
